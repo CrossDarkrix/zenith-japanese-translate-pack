@@ -453,7 +453,7 @@
 	"text.zenith.upgraded_form": "強化されたフォーム",
 	"text.zenith.alternative_page": "ページ %s/%s (スクロールすると変わります)",
 
-	"title.zenith.smithing": "Zenithの鍛冶"",
+	"title.zenith.smithing": "Zenithの鍛冶",
 	"title.zenith.salvaging": "抽出",
 
 	"text.zenith.anything": "何でも",
@@ -817,7 +817,7 @@
     "info.zenith.rel_weights": "相対的な重み",
     "rarity.enchantment.common": "コモン",
     "rarity.enchantment.uncommon": "アンコモン",
-    "rarity.enchantment.rare": "レア,
+    "rarity.enchantment.rare": "レア",
     "rarity.enchantment.very_rare": "とってもレア",
     "info.zenith.weight": "%s: %s",
     "info.zenith.eterna_at_least": "最小: %s/%s",
